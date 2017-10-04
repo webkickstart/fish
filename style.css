@@ -1,0 +1,19 @@
+h1{
+	color:green;
+}
+
+
+b{
+color:blue;
+}
+
+body{
+	 background-image: url("deep.jpg");
+	 background-repeat: no-repeat;
+	 background-color:black;
+}
+
+#container{
+	margin-left:100px;
+	color:white;
+}

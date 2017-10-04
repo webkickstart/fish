@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Test Comments
+   Author: 
+   Date:  10/24/2015
+   Filename:         test.xml
+-->
+
+<cr:crustations xmlns:cr="http://www.example.com/cr:crustations">
+	<cr:crustation>
+		<cr:waterType>Saltwater</cr:waterType>
+		<cr:image>hermitcrab.jpg</cr:image>
+		<cr:specificName></cr:specificName>
+		<cr:commonName rating="5">Hermit Crab</cr:commonName>
+		<cr:fishType care="dangerous">Communitiy</cr:fishType>
+		<cr:collectionMethod>Wild Caught</cr:collectionMethod>
+		<cr:marketPrice>.99</cr:marketPrice>
+		<cr:wholesale>2.99</cr:wholesale>
+		<cr:retail>7.99</cr:retail>	
+	</cr:crustation>
+	<cr:crustation>
+		<cr:waterType>Saltwater</cr:waterType>
+		<cr:image>bludelobster.jpg</cr:image>
+		<cr:specificName></cr:specificName>
+		<cr:commonName rating="5">Blue Lobster</cr:commonName>
+		<cr:fishType care="dangerous">Communitiy</cr:fishType>
+		<cr:collectionMethod>Wild Caught</cr:collectionMethod>
+		<cr:marketPrice>8.99</cr:marketPrice>
+		<cr:wholesale>12.99</cr:wholesale>
+		<cr:retail>27.99</cr:retail>	
+	</cr:crustation>
+		<cr:crustation>
+		<cr:waterType>Saltwater</cr:waterType>
+		<cr:image>pistolshrimp.jpg</cr:image>
+		<cr:specificName></cr:specificName>
+		<cr:commonName rating="5">Pistol Shrimp</cr:commonName>
+		<cr:fishType care="dangerous">Communitiy</cr:fishType>
+		<cr:collectionMethod>Wild Caught</cr:collectionMethod>
+		<cr:marketPrice>2.99</cr:marketPrice>
+		<cr:wholesale>6.99</cr:wholesale>
+		<cr:retail>11.99</cr:retail>	
+	</cr:crustation>
+</cr:crustations>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Test Comments
+   Author: 
+   Date:  10/24/2015
+   Filename:         test.xml
+-->
+
+<crustations xmlns:cr="http://www.example.com/crustations">
+	<crustation>
+		<waterType>Saltwater</waterType>
+		<image>hermitcrab.jpg</image>
+		<specificName></specificName>
+		<commonName rating="5">Hermit Crab</commonName>
+		<fishType care="dangerous">Communitiy</fishType>
+		<collectionMethod>Wild Caught</collectionMethod>
+		<marketPrice>.99</marketPrice>
+		<wholesale>2.99</wholesale>
+		<retail>7.99</retail>	
+	</crustation>
+	<crustation>
+		<waterType>Saltwater</waterType>
+		<image>bludelobster.jpg</image>
+		<specificName></specificName>
+		<commonName rating="5">Blue Lobster</commonName>
+		<fishType care="dangerous">Communitiy</fishType>
+		<collectionMethod>Wild Caught</collectionMethod>
+		<marketPrice>8.99</marketPrice>
+		<wholesale>12.99</wholesale>
+		<retail>27.99</retail>	
+	</crustation>
+		<crustation>
+		<waterType>Saltwater</waterType>
+		<image>pistolshrimp.jpg</image>
+		<specificName></specificName>
+		<commonName rating="5">Pistol Shrimp</commonName>
+		<fishType care="dangerous">Communitiy</fishType>
+		<collectionMethod>Wild Caught</collectionMethod>
+		<marketPrice>2.99</marketPrice>
+		<wholesale>6.99</wholesale>
+		<retail>11.99</retail>	
+	</crustation>
+</crustations>
